@@ -1,0 +1,51 @@
+h1{
+    font-family: "Free Fat Font";
+    letter-spacing: 10px;
+    font-size: 160px;
+    color: blanchedalmond;
+    
+}
+
+h2{
+    font-family: "courier"; 
+    text-align: center;
+    color: beige;
+    
+ 
+}
+
+h3{
+    font-family: "free fat font";
+    letter-spacing: 10px;
+    font-size: 160px;
+    color: blanchedalmond;
+}
+
+h4{
+    
+}
+.Dom
+{
+    text-align: left;
+    
+}
+
+.Elijah
+{
+    text-align: right;
+}
+.expression
+{
+    text-align: center;
+}
+
+body{
+  background-image: url(curtain.jpeg); 
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
